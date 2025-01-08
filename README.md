@@ -1,5 +1,5 @@
 ## About Myself:
-Hi I am Rahul Dahal
+Hi I am Rahul Dahal,
 I am a Highly motivated and detail-oriented Data Analyst with a strong academic foundation in Statistics
 and hands-on experience in data manipulation, analysis, and visualization. Proficient in leveraging
 tools like Python, SQL, and Tableau to extract actionable insights from complex datasets. Adept at
