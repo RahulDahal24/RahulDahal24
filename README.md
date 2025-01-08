@@ -1,12 +1,9 @@
-👋 Hi, I’m @RahulDahal24
-👀 I’m passionate about business analytics and have a strong interest in trading.
-🌱 I’m currently enhancing my data analytics skills and have completed my MBA.
-💞️ I’m looking to collaborate on data-driven projects.
-📫 Reach me at: [rahuldahal2052@gmail.com/+61-0413654026]
-😄 Pronouns: He/Him
-⚡ Fun fact: I love exploring financial markets in my free time!
+## About Myself:
+Hi I am Rahul Dahal
+I am a Highly motivated and detail-oriented Data Analyst with a strong academic foundation in Statistics
+and hands-on experience in data manipulation, analysis, and visualization. Proficient in leveraging
+tools like Python, SQL, and Tableau to extract actionable insights from complex datasets. Adept at
+delivering data-driven recommendations to enhance decisions-making processes. Committed to continuous
+learning and innovation, with a proven ability to communicate findings effectively to technical and
+non-technical stakeholders.
 
-<!---
-RahulDahal24/RahulDahal24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
